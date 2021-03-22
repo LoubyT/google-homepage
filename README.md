@@ -1,1 +1,1 @@
-This is my first project on my journey through The Odin Project. I will be creating a Google homepage using HTML and CSS.
+This is my first project on my journey through The Odin Project. I created a replica google homepage using HTML and CSS. The links and buttons do not work, but I did include a hover feature for the buttons and search bar to match Google's own features.
