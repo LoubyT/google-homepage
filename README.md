@@ -1,0 +1,1 @@
+This is my first project on my journey through The Odin Project. I will be creating a Google homepage using HTML and CSS.
